@@ -14,7 +14,7 @@ NOTE: Cycles Render will not show in Camera Preview
 
 [CameraPreview.webm](https://user-images.githubusercontent.com/79613445/210196869-9d2a11bf-7c0d-4d2b-8b32-7b569018f41d.webm)
 
-# Limitation!
+## Limitation!
 
 If you Use Left Click Select, it Might Make Gizmo Unclickable, to fix this problem, Make Sure to Change Your
 
@@ -23,3 +23,23 @@ Preferences-> Keymap-> Activate Gizmo Event
 Change it from "Drag" to "Press" to fix this problem
 
 [Minorfix.webm](https://user-images.githubusercontent.com/79613445/210192334-dc32fcb5-ab01-4306-82bb-0f78b46fab9a.webm)
+
+
+# Camera List
+
+List your camera in the side panel, simplify the process of managing multiple camera in the scene.
+
+![CameraList](https://user-images.githubusercontent.com/79613445/210196911-cd6e00f0-33ca-4f57-a47a-add6bf788b0e.png)
+
+## Camera List Buttons
+
+With each Camera Item Listed, You can Do the Following. 
+
+  ![CameraList](https://user-images.githubusercontent.com/79613445/210196924-60e1c7ee-e110-4f8d-b8de-619ed285a01d.png) 
+
+  - View the Camera
+  - Select the Camera
+  - Find the Camera (Frame Selected)
+  - Bind Camera to Timeline Markers
+  - Remove the Camera
+  - Change the Camera Settings
