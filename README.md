@@ -62,3 +62,18 @@ Can Be useful if you Want to Render For 2.5D Sprite Render, or if You want to Qu
 
 ![MultiAngle](https://user-images.githubusercontent.com/79613445/210203736-064d28e6-2442-412e-a7fa-3c3a876a31fb.png)
 
+## Other Features
+
+### Create Clamped Camera From Selected Curves
+
+Create Camera on Curve and Apply Clamped to Constraint on the Selected Curves
+
+
+### Create Empty Target From Camera 
+
+Create Empty Target for Selected Camera and Apply Track to or Damped Track Constraint. 
+
+
+### Create Camera And Empty Target 
+
+Create Camera and A Empty with Track to Or Damped Track Constraint Applied. While You can do this manually easily, this could saves a few clicks, 
