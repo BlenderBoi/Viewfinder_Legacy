@@ -50,3 +50,15 @@ With each Camera Item Listed, You can Do the Following. 
 ## New Camera From View
 
 You can Create New Camera From View which is a more Intuitive Way of Adding New Camera and Bind Camera to Timeline Marker at Current Frame When you Create The Camera
+
+
+## Camera Booth
+
+Create A "Camera Booth" where it have Camera In Angles from Many Views
+
+[CameraBooth.webm](https://user-images.githubusercontent.com/79613445/210203718-4c40f46f-59b2-4077-ad50-cf2e34fa26e9.webm)
+
+Can Be useful if you Want to Render For 2.5D Sprite Render, or if You want to Quickly Render Your Model From Multiple Angles. 
+
+![MultiAngle](https://user-images.githubusercontent.com/79613445/210203736-064d28e6-2442-412e-a7fa-3c3a876a31fb.png)
+
