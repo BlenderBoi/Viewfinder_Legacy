@@ -12,6 +12,8 @@ You can Preview Your Camera inside your Viewport Visually
 
 NOTE: Cycles Render will not show in Camera Preview
 
+[CameraPreview.webm](https://user-images.githubusercontent.com/79613445/210196869-9d2a11bf-7c0d-4d2b-8b32-7b569018f41d.webm)
+
 # Limitation!
 
 If you Use Left Click Select, it Might Make Gizmo Unclickable, to fix this problem, Make Sure to Change Your
