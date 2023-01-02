@@ -2,7 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/79613445/210192287-dd02b6c8-7154-47a6-af05-65383c3178ef.png)
 
-Viewfinder is an Addon that Helps provides Utility and Camera Related Tools
+Viewfinder is an Addon that Helps provides Utility and Camera Related Tools. It Helps With Managing Cameras In Your Scene
 
 ![ViewfinderScreenshot](https://user-images.githubusercontent.com/79613445/210192365-acc5ad68-c66f-4f4d-989f-0413523a5d64.png)
 
