@@ -63,6 +63,12 @@ Can Be useful if you Want to Render For 2.5D Sprite Render, or if You want to Qu
 
 ![MultiAngle](https://user-images.githubusercontent.com/79613445/210203736-064d28e6-2442-412e-a7fa-3c3a876a31fb.png)
 
+
+## Markers From Selected Camera
+
+Bind Camera to Timeline Markers and Increment their Frame on Selected Cameras
+
+
 ## Other Features
 
 ### Create Clamped Camera From Selected Curves
