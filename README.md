@@ -6,14 +6,6 @@ Viewfinder is an Addon that Helps provides Utility and Camera Related Tools
 
 ![ViewfinderScreenshot](https://user-images.githubusercontent.com/79613445/210192365-acc5ad68-c66f-4f4d-989f-0413523a5d64.png)
 
-
-# Viewfinder Feature
-
-1. Camera List - List your camera in the side panel, simplify the process of managing multiple camera in the scene. 
-2. Camera Operators - Some Operator to Helps working with Camera to be Easier. 
-3. Camera Preview - You can Preview Your Camera inside your viewport Visually
-
-
 # Camera Preview
 
 You can Preview Your Camera inside your Viewport Visually
