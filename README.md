@@ -9,7 +9,6 @@ Viewfinder is an Addon that Helps provides Utility and Camera Related Tools. It 
 # Camera Preview
 
 You can Preview Your Camera inside your Viewport Visually
-
   NOTE: Cycles Render will not show in Camera Preview
 
 [CameraPreview.webm](https://user-images.githubusercontent.com/79613445/210196869-9d2a11bf-7c0d-4d2b-8b32-7b569018f41d.webm)
