@@ -37,7 +37,6 @@ With each Camera Item Listed, You can Do the Following. 
 
 ![Viewfinder_Item](https://user-images.githubusercontent.com/79613445/210196961-cd04ba8b-38ac-4712-86be-a771828533e6.png)
 
-
 - View the Camera
 - Select the Camera
 - Find the Camera (Frame Selected)
