@@ -35,11 +35,18 @@ List your camera in the side panel, simplify the process of managing multiple ca
 
 With each Camera Item Listed, You can Do the Following. 
 
-  ![CameraList](https://user-images.githubusercontent.com/79613445/210196924-60e1c7ee-e110-4f8d-b8de-619ed285a01d.png) 
+![Viewfinder_Item](https://user-images.githubusercontent.com/79613445/210196961-cd04ba8b-38ac-4712-86be-a771828533e6.png)
 
-  - View the Camera
-  - Select the Camera
-  - Find the Camera (Frame Selected)
-  - Bind Camera to Timeline Markers
-  - Remove the Camera
-  - Change the Camera Settings
+
+- View the Camera
+- Select the Camera
+- Find the Camera (Frame Selected)
+- Bind Camera to Timeline Markers
+- Remove the Camera
+- Change the Camera Settings
+
+# Camera Utility Operator
+
+## New Camera From View
+
+You can Create New Camera From View which is a more Intuitive Way of Adding New Camera and Bind Camera to Timeline Marker at Current Frame When you Create The Camera
