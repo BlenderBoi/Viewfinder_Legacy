@@ -9,7 +9,8 @@ Viewfinder is an Addon that Helps provides Utility and Camera Related Tools. It 
 # Camera Preview
 
 You can Preview Your Camera inside your Viewport Visually
-  NOTE: Cycles Render will not show in Camera Preview
+
+  Note: Cycles Render will not show in Camera Preview
 
 [CameraPreview.webm](https://user-images.githubusercontent.com/79613445/210196869-9d2a11bf-7c0d-4d2b-8b32-7b569018f41d.webm)
 
@@ -17,7 +18,7 @@ You can Preview Your Camera inside your Viewport Visually
 
 If you Use Left Click Select, it Might Make Gizmo Unclickable, to fix this problem, Make Sure to Change Your
 
-Preferences-> Keymap-> Activate Gizmo Event
+  Preferences-> Keymap-> Activate Gizmo Event
 
 Change it from "Drag" to "Press" to fix this problem
 
