@@ -70,7 +70,7 @@ You can Create New Camera From View which is a more Intuitive Way of Adding New 
 
 Create A "Camera Booth" where it have Camera In Angles from Many Views
 
-[CameraBooth.webm](https://user-images.githubusercontent.com/79613445/211126734-aeaafcf4-498e-4657-a862-9c4842ae5dce.webm)
+[CameraBooth.webm](https://user-images.githubusercontent.com/79613445/211128028-c0e3be8d-4f56-4711-b7d0-b2b5975ed47e.webm)
 
 
 
@@ -83,7 +83,7 @@ Can Be useful if you Want to Render For 2.5D Sprite Render, or if You want to Qu
 
 Bind Camera to Timeline Markers and Increment their Frame on Selected Cameras
 
-[MarkerFromCamera.webm](https://user-images.githubusercontent.com/79613445/211126774-d5a0a2b0-e7ee-4933-8d33-4fbf6cf8a2ab.webm)
+[MarkerFromCamera.webm](https://user-images.githubusercontent.com/79613445/211128046-dbe1eeb5-4444-4cbb-83c6-24a03c291ad5.webm)
 
 
 ## Other Features
