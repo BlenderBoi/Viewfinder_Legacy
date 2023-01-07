@@ -6,7 +6,13 @@ Viewfinder is an Addon that Helps provides Utility and Camera Related Tools. It 
 
 ![ViewfinderScreenshot](https://user-images.githubusercontent.com/79613445/210192365-acc5ad68-c66f-4f4d-989f-0413523a5d64.png)
 
-[ViewfinderDemo.webm](https://user-images.githubusercontent.com/79613445/211126880-b7dc18aa-9611-4e74-a814-f74957bcdc32.webm)
+
+
+
+![ViefinderDemo](https://user-images.githubusercontent.com/79613445/211127641-07a202cc-0125-445b-8413-870916e4246f.mp4)
+
+
+
 
 
 
