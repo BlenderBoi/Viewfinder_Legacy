@@ -6,6 +6,10 @@ Viewfinder is an Addon that Helps provides Utility and Camera Related Tools. It 
 
 ![ViewfinderScreenshot](https://user-images.githubusercontent.com/79613445/210192365-acc5ad68-c66f-4f4d-989f-0413523a5d64.png)
 
+[ViewfinderDemo.webm](https://user-images.githubusercontent.com/79613445/211126880-b7dc18aa-9611-4e74-a814-f74957bcdc32.webm)
+
+
+
 # Camera Preview
 
 You can Preview Your Camera inside your Viewport Visually
@@ -52,10 +56,15 @@ With each Camera Item Listed, You can Do the Following. 
 
 You can Create New Camera From View which is a more Intuitive Way of Adding New Camera and Bind Camera to Timeline Marker at Current Frame When you Create The Camera
 
+[CameraFromView.webm](https://user-images.githubusercontent.com/79613445/211126818-7244948e-532c-45db-87c6-ca5fd3fa8c85.webm)
+
+
 
 ## Camera Booth
 
 Create A "Camera Booth" where it have Camera In Angles from Many Views
+
+[CameraBooth.webm](https://user-images.githubusercontent.com/79613445/211126734-aeaafcf4-498e-4657-a862-9c4842ae5dce.webm)
 
 
 
@@ -67,6 +76,8 @@ Can Be useful if you Want to Render For 2.5D Sprite Render, or if You want to Qu
 ## Markers From Selected Camera
 
 Bind Camera to Timeline Markers and Increment their Frame on Selected Cameras
+
+[MarkerFromCamera.webm](https://user-images.githubusercontent.com/79613445/211126774-d5a0a2b0-e7ee-4933-8d33-4fbf6cf8a2ab.webm)
 
 
 ## Other Features
